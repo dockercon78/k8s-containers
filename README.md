@@ -1,2 +1,2 @@
 # k8s-containers
-Docker Containers in Kubernetis
+Docker Containers in Kubernetes
